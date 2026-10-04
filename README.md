@@ -17,8 +17,6 @@
 
 ## 2. Problem Hypothesis Brief (Chặng 1 — của nhóm)
 
-> **Bản nháp cá nhân của Lê Thanh Tùng**, sẽ gộp với Nguyễn Khánh Duy và Cao Đức Hiệp. Mọi nội dung dưới đây là hypothesis, chưa phải fact về user.
-
 ### 2.1 Solution → capability trung tính
 
 - **Capability trung tính:** sau khi học xong một bài, học viên có trong tay một bản ghi lại những gì mình cần nhớ và cần quay lại, được tổ chức từ chính những gì họ đã chú ý trong lúc học, để dùng lại sau này.
